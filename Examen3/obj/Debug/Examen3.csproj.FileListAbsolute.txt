@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\DanielAldana\FundamentosDeProgramacion\Examen3\bin\Debug\Examen3.exe.config
+C:\Users\B09S104est\Documents\DanielAldana\FundamentosDeProgramacion\Examen3\bin\Debug\Examen3.exe
+C:\Users\B09S104est\Documents\DanielAldana\FundamentosDeProgramacion\Examen3\bin\Debug\Examen3.pdb
+C:\Users\B09S104est\Documents\DanielAldana\FundamentosDeProgramacion\Examen3\obj\Debug\Examen3.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\DanielAldana\FundamentosDeProgramacion\Examen3\obj\Debug\Examen3.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\DanielAldana\FundamentosDeProgramacion\Examen3\obj\Debug\Examen3.exe
+C:\Users\B09S104est\Documents\DanielAldana\FundamentosDeProgramacion\Examen3\obj\Debug\Examen3.pdb
