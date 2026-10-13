@@ -1,0 +1,1 @@
+﻿ using System;namespace Ciclos{internal class Program{static void Main(string[] args){Console.WriteLine("ecribe un numero");int a = Convert.ToInt32(Console.ReadLine());for (int b = 0; b < 10; b++){Console.WriteLine($"{a} x {b + 1} = {a * (b + 1)}");}}}}

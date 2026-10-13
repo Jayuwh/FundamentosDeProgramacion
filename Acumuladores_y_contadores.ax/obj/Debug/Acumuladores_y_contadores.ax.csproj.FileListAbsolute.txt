@@ -1,0 +1,2 @@
+C:\Users\B09S104est\Documents\DanielAldana\FundamentosDeProgramacion\Acumuladores_y_contadores.ax\obj\Debug\Acumuladores_y_contadores.ax.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\DanielAldana\FundamentosDeProgramacion\Acumuladores_y_contadores.ax\obj\Debug\Acumuladores_y_contadores.ax.csproj.CoreCompileInputs.cache
